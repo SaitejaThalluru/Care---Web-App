@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_VERIFY</name>
+   <tag></tag>
+   <elementGuidId>8e0c7bd5-0082-4069-9111-ea7f1ce5605e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.kyc_details_cont.adhar_card_details > div.kyc_details_wrapper > div.form_flex > div.verify_btn_wrap > button.verify_btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kyc_container']/div[3]/div/div/div[5]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>923ef1ee-8c1f-40fa-9e71-7e468cb9b55e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>verify_btn</value>
+      <webElementGuid>3ea16fd0-9343-41d0-999a-dccf98ffcc79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>Off</value>
+      <webElementGuid>25f65e01-ae57-40b9-a271-58fd030ecbe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VERIFY</value>
+      <webElementGuid>ff40027b-c44b-4c99-a908-016693e16408</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kyc_container&quot;)/div[@class=&quot;kyc_details_cont adhar_card_details&quot;]/div[@class=&quot;kyc_details_wrapper&quot;]/div[@class=&quot;form_flex&quot;]/div[@class=&quot;verify_btn_wrap&quot;]/button[@class=&quot;verify_btn&quot;]</value>
+      <webElementGuid>165b124a-5a1a-4332-80d2-a7e81ef95f87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kyc_container']/div[3]/div/div/div[5]/button</value>
+      <webElementGuid>2ae6be48-8e53-49c4-a04b-03c5f8f73e04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter Valid DOB'])[1]/following::button[1]</value>
+      <webElementGuid>f7c92138-2098-499f-896b-6f503a14b151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DATE OF BIRTH'])[2]/following::button[1]</value>
+      <webElementGuid>03b5eb4c-b031-4f28-bf44-6760e6af9e0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verification Successful!'])[2]/preceding::button[1]</value>
+      <webElementGuid>155f5a62-ded4-470f-b8d4-0551e20d1dfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verification failed please re-enter the correct info and verify again'])[2]/preceding::button[1]</value>
+      <webElementGuid>377617f2-bef9-419d-8157-5e13ed3a2753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[5]/button</value>
+      <webElementGuid>bb550f7f-433d-4c6b-8be7-384fcd15cb40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'VERIFY' or . = 'VERIFY')]</value>
+      <webElementGuid>036f74a6-85aa-4be0-bac2-4254db669dde</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

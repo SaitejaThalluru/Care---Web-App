@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Calculate Premium</name>
+   <tag></tag>
+   <elementGuidId>fffcc361-c506-4fa6-b87f-ae0f228a6c13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#getQuote</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='getQuote']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7dc0dd3e-dc34-4fac-98d9-9320ac1605e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custum_common_btn absolute_btn</value>
+      <webElementGuid>a9462277-390b-40e4-87ea-f002d3098e33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>getQuote</value>
+      <webElementGuid>299ee149-137f-46ca-957f-fcd7eebb15bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>Off</value>
+      <webElementGuid>16d21513-86a0-4c2f-b84e-03f199f3b753</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Calculate Premium
+                </value>
+      <webElementGuid>856dd1fb-6295-4f54-9c64-d40bb5c403f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;getQuote&quot;)</value>
+      <webElementGuid>cebcc50b-2640-47b8-915f-a97d7ea43f32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='getQuote']</value>
+      <webElementGuid>8c5dcff8-f30a-4f53-b8e8-e608a8fd9116</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='quote-form-step-1']/button</value>
+      <webElementGuid>50032c9e-1567-4dc5-981b-85333a282279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Health Insurance for Senior Citizens'])[1]/following::button[1]</value>
+      <webElementGuid>06118e68-87f2-4aac-9f3a-9ff8e4e98d8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Individual Health Insurance'])[1]/following::button[1]</value>
+      <webElementGuid>e8197e8b-2f2f-4438-8243-71abee1f73de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T &amp; C'])[1]/preceding::button[1]</value>
+      <webElementGuid>b66557d1-d793-4b98-8f7a-5f0ae44df62e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Calculate Premium']/parent::*</value>
+      <webElementGuid>bfa701b5-08bd-46f4-a964-2bfe3feae375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>eb4175b1-ba02-472c-8891-f728fb454418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'getQuote' and (text() = '
+                Calculate Premium
+                ' or . = '
+                Calculate Premium
+                ')]</value>
+      <webElementGuid>d39a8d57-1ba7-46fe-adb4-791a7c05e25f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

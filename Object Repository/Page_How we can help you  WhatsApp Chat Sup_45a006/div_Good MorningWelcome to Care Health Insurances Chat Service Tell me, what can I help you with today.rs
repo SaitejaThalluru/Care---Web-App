@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Good MorningWelcome to Care Health Insurances Chat Service Tell me, what can I help you with today</name>
+   <tag></tag>
+   <elementGuidId>3f89f2df-dfc2-4893-98ee-f5089598b289</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='easychat-bot-message-0']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.easychat-show-less-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>95652b7d-a950-488c-934c-6b8469addb84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>easychat-show-less-text</value>
+      <webElementGuid>81eff655-fd2a-4669-b272-43ca04a49dc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Good Morning!Welcome to Care Health Insurance's Chat Service! Tell me, what can I help you with today?</value>
+      <webElementGuid>0d43d711-6351-49fd-b1f6-0169732592fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;easychat-bot-message-0&quot;)/div[@class=&quot;easychat-show-less-text&quot;]</value>
+      <webElementGuid>54f8a828-c91d-459d-9a70-94b5a0d2c796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_How we can help you  WhatsApp Chat Sup_45a006/iframe_concat(id(, , allincall-chat-box, , _706759</value>
+      <webElementGuid>f473bdfb-c61c-40fd-aa5d-2aa6f3178ca9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='easychat-bot-message-0']/div</value>
+      <webElementGuid>1d463c29-2992-45f6-a7c0-d3ea10a80a5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::div[5]</value>
+      <webElementGuid>a30207e2-714f-49bb-a2d7-062462a8e515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minimize'])[1]/following::div[6]</value>
+      <webElementGuid>e8223c56-88f1-4216-9553-f83f6fb5c9b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read More'])[1]/preceding::div[1]</value>
+      <webElementGuid>60a8a58c-80ea-4925-924a-5be495267145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Good Morning!']/parent::*</value>
+      <webElementGuid>52461fe1-8644-4bb4-b93c-3e9756750b4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>ec5e934f-cb04-450a-8963-8dc47b5f993a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Good Morning!Welcome to Care Health Insurance&quot; , &quot;'&quot; , &quot;s Chat Service! Tell me, what can I help you with today?&quot;) or . = concat(&quot;Good Morning!Welcome to Care Health Insurance&quot; , &quot;'&quot; , &quot;s Chat Service! Tell me, what can I help you with today?&quot;))]</value>
+      <webElementGuid>8cf4f741-e94c-4e25-ba72-ce46dd66565c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

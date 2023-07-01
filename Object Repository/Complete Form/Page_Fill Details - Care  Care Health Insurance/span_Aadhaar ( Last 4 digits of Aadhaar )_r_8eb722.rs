@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Aadhaar ( Last 4 digits of Aadhaar )_r_8eb722</name>
+   <tag></tag>
+   <elementGuidId>222f03ff-28a1-4870-8ae3-0e5147144fd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.kyc_item.ekyc_adhar_card > span.radio_checkmark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kyc_container']/div/label[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>af6b8b8a-8c54-40a1-a766-1d856a194395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radio_checkmark</value>
+      <webElementGuid>43879e33-958b-4fc8-9ba2-da062f314482</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kyc_container&quot;)/div[@class=&quot;kyc_options&quot;]/label[@class=&quot;kyc_item ekyc_adhar_card&quot;]/span[@class=&quot;radio_checkmark&quot;]</value>
+      <webElementGuid>771e202e-c13f-4dbd-b5b9-5e793075720c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kyc_container']/div/label[2]/span</value>
+      <webElementGuid>a465524a-f295-4f1b-907d-f34eeba81b83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label[2]/span</value>
+      <webElementGuid>4f26b14b-e1dd-4fdd-8675-b08087159a0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
