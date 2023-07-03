@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ADDITIONAL COVERS</name>
+   <tag></tag>
+   <elementGuidId>f05c6913-b898-484c-9c61-80ec3309f5fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab_h2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tab_h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2deffc7e-f568-4577-98ad-70367e57b2c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab_heading</value>
+      <webElementGuid>f2922ead-2542-4054-9cd3-e076b66ca359</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tab_h2</value>
+      <webElementGuid>53181edb-6cd5-46a9-96a0-b0d9e06a67e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+		                                ADDITIONAL COVERS
+		                            </value>
+      <webElementGuid>dbb58ab9-2f6a-4064-af85-8f0dcea21d40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab_h2&quot;)</value>
+      <webElementGuid>a5025016-adf1-46b0-92cf-ff1a39d331d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='tab_h2']</value>
+      <webElementGuid>0effc76d-3755-4b6d-ab87-36f76397e15c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::div[8]</value>
+      <webElementGuid>7843e7c7-d793-4598-aa77-710e6c9707a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INCLUDED'])[1]/preceding::div[9]</value>
+      <webElementGuid>fa793d2a-2162-4c0f-9265-d51f72f1d912</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>d1df7516-2f6a-4ca5-9aec-bc9d3e6397b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'tab_h2' and (text() = '
+		                                ADDITIONAL COVERS
+		                            ' or . = '
+		                                ADDITIONAL COVERS
+		                            ')]</value>
+      <webElementGuid>3973d84e-d490-4c07-ae12-e777163ca9d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

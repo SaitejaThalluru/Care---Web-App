@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Enter Your Card Details</name>
+   <tag></tag>
+   <elementGuidId>6e990ed9-8912-43fb-b906-385123ef8cac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='CreditCard']/div/div/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4.payment_opt_text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>1f1a6b77-a939-405b-943f-4839e43463d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>payment_opt_text</value>
+      <webElementGuid>9548d309-1b0d-4259-a53e-79ecb64b6837</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enter Your Card Details</value>
+      <webElementGuid>fd4eed88-de03-46c8-8f72-b288ac3b0f48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CreditCard&quot;)/div[1]/div[@class=&quot;payment_option_title&quot;]/h4[@class=&quot;payment_opt_text&quot;]</value>
+      <webElementGuid>fc619ff6-95a7-4cc5-9426-98f7051dee8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CreditCard']/div/div/h4</value>
+      <webElementGuid>c1a14bd5-006d-4b40-8655-50158f236d2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wallet'])[1]/following::h4[1]</value>
+      <webElementGuid>506053c6-2b9a-47a0-97e0-20be8b9e92f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EMI'])[1]/following::h4[1]</value>
+      <webElementGuid>77ee1048-69d0-40da-8e0d-6d97a7456586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Card Number'])[1]/preceding::h4[1]</value>
+      <webElementGuid>6d492a27-1391-435d-afcf-f6327c661f48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name on the card'])[1]/preceding::h4[1]</value>
+      <webElementGuid>c50cf44d-342d-46ca-8865-f792b7b1ce91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enter Your Card Details']/parent::*</value>
+      <webElementGuid>b79d42ad-81f9-4094-a163-a8b4020c7330</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>7cd3afdf-9666-4796-8cc1-a30b5eb8b053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Enter Your Card Details' or . = 'Enter Your Card Details')]</value>
+      <webElementGuid>831348e9-b1db-4116-b7fa-3140713f39cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

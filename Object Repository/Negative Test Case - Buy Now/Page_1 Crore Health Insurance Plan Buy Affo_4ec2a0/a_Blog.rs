@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Blog</name>
+   <tag></tag>
+   <elementGuidId>fd5d0105-7c5d-409c-9955-d13fd32d4b2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;headerOtherSingle('about us')&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5d5c1c7e-242b-4287-8c53-a768b2072fdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-item-link</value>
+      <webElementGuid>e2f1331f-7099-48ba-8d61-7bd8e2b50c96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.careinsurance.com/blog/</value>
+      <webElementGuid>e1f93d39-e29c-4d37-b2d3-eb0495a55623</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>headerOtherSingle('about us')</value>
+      <webElementGuid>54333caa-fdf5-404d-98cf-6f49f49ca910</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Blog</value>
+      <webElementGuid>457fa421-f3eb-4381-b5fc-ba17a69eec4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;care_page common_page_body category_page Chrome_view&quot;]/header[@class=&quot;navbar-main resolution_container&quot;]/div[@class=&quot;header-right&quot;]/div[@class=&quot;menu-wrapper&quot;]/div[@class=&quot;menu_list-wrapper&quot;]/div[@class=&quot;menu_list-container&quot;]/div[@class=&quot;menu_list&quot;]/div[@class=&quot;menu-items-box&quot;]/ul[1]/li[@class=&quot;menu-item mob-menu-bottom-border&quot;]/a[@class=&quot;menu-item-link&quot;]</value>
+      <webElementGuid>edfe816a-557c-4ae1-9fa3-52f437d588b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;headerOtherSingle('about us')&quot;]</value>
+      <webElementGuid>24ce5c7d-a380-4929-ba7e-6070430c5786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Blog')]</value>
+      <webElementGuid>7bb54b07-6779-46fb-af58-ecdff62ed544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Renew'])[1]/following::a[1]</value>
+      <webElementGuid>947ebc4a-b9c8-4505-a743-d013a9a55f10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unclaimed Amount'])[1]/following::a[2]</value>
+      <webElementGuid>6c101696-518d-4099-bdf1-eaa7f08f757b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Portability'])[1]/preceding::a[1]</value>
+      <webElementGuid>563f2f49-998d-439e-aee2-9a4cfcb27706</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='contact us'])[1]/preceding::a[2]</value>
+      <webElementGuid>cb39a3a4-db4f-4ecc-b9e8-a982445e1936</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Blog']/parent::*</value>
+      <webElementGuid>c4f219b5-50f5-4d09-a768-d811ab8ae4ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.careinsurance.com/blog/')]</value>
+      <webElementGuid>166a84de-1ac3-44c4-b328-241c2af96b3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>d2766f17-f26e-43ff-a6dc-9c9b0b5438f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.careinsurance.com/blog/' and (text() = 'Blog' or . = 'Blog')]</value>
+      <webElementGuid>187f35d7-c965-40cc-ab5a-ea671388a842</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

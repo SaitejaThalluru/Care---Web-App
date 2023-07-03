@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Health Insurance Articles</name>
+   <tag></tag>
+   <elementGuidId>2089641b-9379-414c-80fa-d1dd1d2c3b68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href='https://www.careinsurance.com/blog/health-insurance-articles']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.set_break</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>dff99b78-ca0e-4516-9111-2384201f2b78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>set_break</value>
+      <webElementGuid>7521fbee-e619-42ca-b5a5-903773e98083</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Health Insurance Articles</value>
+      <webElementGuid>622de05a-4621-4e3b-a5c0-ddc89367b4f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;bg_color&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;blog_post_header&quot;]/div[@class=&quot;catg-container&quot;]/div[@class=&quot;thumbnail&quot;]/a[@class=&quot;remove_underline&quot;]/div[@class=&quot;captionfixed&quot;]/p[@class=&quot;set_break&quot;]</value>
+      <webElementGuid>cb232fe2-13be-40ed-b6b8-f2e11c0e83a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Health and Travel Insurance Articles'])[2]/following::p[1]</value>
+      <webElementGuid>885b801c-5bb8-48c7-8d3e-a8ec1ed82aa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='As a Partner'])[1]/following::p[1]</value>
+      <webElementGuid>bdd2c868-e54a-4b81-8071-2e0399f816a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='सीने में दर्द के लक्षण, कारण और घरेलू इलाज'])[1]/preceding::p[4]</value>
+      <webElementGuid>9b0516e8-3d38-4821-abd5-63ac72d6cb2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HEART INSURANCE'])[1]/preceding::p[4]</value>
+      <webElementGuid>6b02a4d6-0509-493b-b77e-931d3e629d1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Health Insurance Articles']/parent::*</value>
+      <webElementGuid>b14d4af4-e395-4d62-8b15-f610fe3700a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a/div/p</value>
+      <webElementGuid>6ddbe61a-ed90-4c63-b02a-99993d0ae821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Health Insurance Articles' or . = 'Health Insurance Articles')]</value>
+      <webElementGuid>a41a4900-dd30-48ea-9b82-dcf7fbe9442c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

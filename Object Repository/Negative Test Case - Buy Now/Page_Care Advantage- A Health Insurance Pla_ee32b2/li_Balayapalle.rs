@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Balayapalle</name>
+   <tag></tag>
+   <elementGuidId>ac54cfce-8256-4be8-95f2-eb9359ba5a29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='care-quote-box']/div[3]/div[2]/div/div/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.pincode_list.cities_list.auto-list > li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>62e1038f-1df9-4a4d-9057-eedaff81b169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Balayapalle</value>
+      <webElementGuid>c94f325f-abd3-451c-908c-beaca5c426ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;care-quote-box&quot;)/div[@class=&quot;step3 Cr-PreQuote-City&quot;]/div[@class=&quot;form_cont&quot;]/div[@class=&quot;form-group focused filled&quot;]/div[@class=&quot;border_cont&quot;]/ul[@class=&quot;pincode_list cities_list auto-list&quot;]/li[1]</value>
+      <webElementGuid>b9e70815-f2c0-47e5-ad2c-df1caf367163</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='care-quote-box']/div[3]/div[2]/div/div/ul/li</value>
+      <webElementGuid>0c2de49e-8a1d-45c8-901b-7c13c54636ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter Your City / Pincode'])[1]/following::li[1]</value>
+      <webElementGuid>3785f6a9-d7a6-421d-97a6-ba32b7536af5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help us with your city'])[1]/following::li[4]</value>
+      <webElementGuid>6ef942b9-fd2f-4dd3-af9b-88ed62091354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dakkili'])[1]/preceding::li[1]</value>
+      <webElementGuid>586c257e-15c6-452a-8e96-4b292b145a98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Venkatagiri'])[1]/preceding::li[2]</value>
+      <webElementGuid>d0008a22-87d9-4764-be65-6790c3c0312d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Balayapalle']/parent::*</value>
+      <webElementGuid>78567fc5-5977-4cef-9582-4294f4a5a62a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/ul/li</value>
+      <webElementGuid>4da40953-3ab5-48e0-a9fd-30b2e9abfc14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Balayapalle' or . = 'Balayapalle')]</value>
+      <webElementGuid>b3f614f3-b4a0-4e24-9e57-916854c2091d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

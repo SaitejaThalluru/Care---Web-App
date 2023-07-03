@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Please select at least one insured member</name>
+   <tag></tag>
+   <elementGuidId>40e8f0c9-e2c9-44ba-ac8f-97165d1bd586</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='premium_form']/div/div/div[2]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.error-age</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a4b6b780-9f68-4030-af25-b3db38bc6874</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error-age</value>
+      <webElementGuid>5028ce8f-3f30-4a89-9fc7-fc9de1b0c629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please select at least one insured member.</value>
+      <webElementGuid>db859e89-3083-4aa1-b2de-925eb375578f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;premium_form&quot;)/div[@class=&quot;left_sec&quot;]/div[@class=&quot;panel_cont Cr-PreQuote-InsuredDetails carestepCompleted active&quot;]/div[@class=&quot;panel 2_panel insured_person&quot;]/div[@class=&quot;panel_content form_enable&quot;]/div[@class=&quot;panel_cont_inner dropdown_up insured_person_selection&quot;]/span[@class=&quot;error-age&quot;]</value>
+      <webElementGuid>0fa4782d-1889-4756-b412-c0e6505c7a56</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='premium_form']/div/div/div[2]/div/div/span</value>
+      <webElementGuid>fa9a0840-aeb4-4fa3-ab4b-e757cdd002fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Female'])[1]/following::span[3]</value>
+      <webElementGuid>7b9947ae-ff91-4655-bb89-6ea91100711e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Male'])[1]/following::span[3]</value>
+      <webElementGuid>2d7ad1ce-3570-46de-9a19-dbb12278ca26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='✔'])[2]/preceding::span[2]</value>
+      <webElementGuid>4eb087c4-cb60-419f-800e-79f25192bddb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='World Wide'])[1]/preceding::span[24]</value>
+      <webElementGuid>b1f50fb8-ab06-45f6-ab3a-e2381134f27d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please select at least one insured member.']/parent::*</value>
+      <webElementGuid>bfb8e97d-c323-4f56-8bf2-c2f2c99109fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>6f5fd4b4-8672-40e5-b73c-7e51a8960ab6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Please select at least one insured member.' or . = 'Please select at least one insured member.')]</value>
+      <webElementGuid>ae7677ba-d262-448c-85f4-ef87946f7eb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
