@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Test Steps -
+Navigate to URL
+Click on Blogs
+Click on health Insurance Articles</description>
    <name>Health Insurance - Articles</name>
    <tag></tag>
    <comment></comment>

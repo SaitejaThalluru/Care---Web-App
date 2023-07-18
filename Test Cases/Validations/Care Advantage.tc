@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Test Case for verifying validations of pincode, member selection</description>
    <name>Care Advantage</name>
    <tag></tag>
    <comment></comment>

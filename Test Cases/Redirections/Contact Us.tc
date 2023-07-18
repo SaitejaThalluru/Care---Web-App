@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Test Steps
+Navigate to URL
+Click on contact us button
+Verify watsapp chat icon
+Self help portal and other redirections</description>
    <name>Contact Us</name>
    <tag></tag>
    <comment></comment>

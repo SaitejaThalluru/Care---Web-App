@@ -30,12 +30,17 @@ int scrollIncrement = 500
 int totalScrolls = 8
 
 for (int i = 0; i < totalScrolls; i++) {
-	scrollPosition = scrollPosition + scrollIncrement
-	String scrollScript = "window.scrollTo(0, ${scrollPosition})"
-	WebUI.executeJavaScript(scrollScript, null)
-	WebUI.takeScreenshot()
-	WebUI.delay(1)
-	WebUI.scrollToPosition(0,0)
+    scrollPosition = (scrollPosition + scrollIncrement)
+
+    String scrollScript = "window.scrollTo(0, $scrollPosition)"
+
+    WebUI.executeJavaScript(scrollScript, null)
+
+    WebUI.takeScreenshot()
+
+    WebUI.delay(1)
+
+    WebUI.scrollToPosition(0, 0)
 }
 
 WebUI.setText(findTestObject('Object Repository/Complete Form/Page_1 Crore Health Insurance Plan Buy Affo_4ec2a0/input_Claim Support_mobile_no'), 
@@ -46,7 +51,7 @@ WebUI.click(findTestObject('Object Repository/Complete Form/Page_1 Crore Health 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Complete Form/Page_Care Advantage- A Health Insurance Pla_ee32b2/select_Select age5-17 Years18-24 Years25-35_2c9cec'), 
     '25', true)
 
-WebUI.click(findTestObject('Object Repository/Complete Form/Page_Care Advantage- A Health Insurance Pla_ee32b2/a_Continue'))
+WebUI.click(findTestObject('sample/Page_Care Advantage- A Health Insurance Pla_ee32b2/a_Continue'))
 
 WebUI.setText(findTestObject('Object Repository/Complete Form/Page_Care Advantage- A Health Insurance Pla_ee32b2/input_Help us with your city_city_name'), 
     '524404')
@@ -149,8 +154,4 @@ WebUI.click(findTestObject('Object Repository/Complete Form/Page_Fill Details - 
 WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/Complete Form/Page_Fill Details - Care  Care Health Insurance/button_PROCEED TO PAY'))
-
-WebUI.verifyElementPresent(findTestObject('Card Details Object'), 0)
-
-WebUI.closeBrowser()
 

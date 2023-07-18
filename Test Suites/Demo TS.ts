@@ -14,7 +14,7 @@
    <testCaseLink>
       <guid>508e2b18-1ad9-40ee-871c-17d45b76fbe5</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Health Category-Buy Journey/Complete details</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>

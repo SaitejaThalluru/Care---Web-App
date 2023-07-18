@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Bangalore</name>
+   <tag></tag>
+   <elementGuidId>65d335d3-ee4b-4c03-967a-83fdf54a0cbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='care-quote-box']/div[3]/div[2]/div/div/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.pincode_list.cities_list.auto-list > li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>40b14734-77fd-4332-a539-437bb355423f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bangalore</value>
+      <webElementGuid>fe52d9c4-d4bf-4880-bf37-a0cf0d5ed2c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;care-quote-box&quot;)/div[@class=&quot;step3 Cr-PreQuote-City&quot;]/div[@class=&quot;form_cont&quot;]/div[@class=&quot;form-group focused filled&quot;]/div[@class=&quot;border_cont&quot;]/ul[@class=&quot;pincode_list cities_list auto-list&quot;]/li[1]</value>
+      <webElementGuid>1a30f3ea-802c-4395-8725-d371961e6923</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='care-quote-box']/div[3]/div[2]/div/div/ul/li</value>
+      <webElementGuid>7c065e74-f871-499c-a481-113a3da7bc92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter Your City / Pincode'])[1]/following::li[1]</value>
+      <webElementGuid>e4360b99-2857-471b-81b8-2109a9de9419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help us with your city'])[1]/following::li[4]</value>
+      <webElementGuid>ece5b43d-af59-4b9a-9836-eb82dd52b39f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bangalore South'])[1]/preceding::li[1]</value>
+      <webElementGuid>decafb0b-55ef-4204-8680-cb9ba727f7bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bangalore']/parent::*</value>
+      <webElementGuid>d08577fe-c6a4-4c60-859a-6370505c2e2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/ul/li</value>
+      <webElementGuid>55191005-75a9-420c-8020-1686dec00142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Bangalore' or . = 'Bangalore')]</value>
+      <webElementGuid>4d270192-58f4-417f-99d3-b6d5078cec74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

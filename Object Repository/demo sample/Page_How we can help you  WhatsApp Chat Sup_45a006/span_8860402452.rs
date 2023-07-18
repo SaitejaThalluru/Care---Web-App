@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_8860402452</name>
+   <tag></tag>
+   <elementGuidId>bf9722a8-a400-498d-84f0-a912e6447b2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect with us on Whatsapp'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.step_container > a.help_details.flex_div.align_item > div > span.contact_no</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4be45ad9-d763-4cee-a8f5-6db042557219</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>contact_no</value>
+      <webElementGuid>1ad23f5e-b85b-4f3e-8e2d-c15b53a13589</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>8860402452</value>
+      <webElementGuid>21e90a4d-1e9d-4a18-8b5d-1cb7999731fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;cards_show Chrome_view&quot;]/section[@class=&quot;support_cont&quot;]/div[@class=&quot;custom_container&quot;]/div[@class=&quot;support_details_section&quot;]/div[@class=&quot;support_method&quot;]/div[@class=&quot;step_container&quot;]/a[@class=&quot;help_details flex_div align_item&quot;]/div[1]/span[@class=&quot;contact_no&quot;]</value>
+      <webElementGuid>e9b7c9a8-7a6c-41e4-9c3c-1221c833c17d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect with us on Whatsapp'])[1]/following::span[1]</value>
+      <webElementGuid>9f195c37-34aa-4dce-9b6c-3e0200b4af40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or'])[2]/following::span[2]</value>
+      <webElementGuid>d7035ee8-863e-4199-a1ed-b78cbe6c7f6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect with us on Chatbot'])[1]/preceding::span[2]</value>
+      <webElementGuid>d080a647-1199-4310-b943-ecae51230a3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click here'])[1]/preceding::span[2]</value>
+      <webElementGuid>a3ca3c82-5d92-4a77-9a03-79d5fccdea2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/div/span</value>
+      <webElementGuid>424379da-592e-4568-be9b-4a30dbd09b48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '8860402452' or . = '8860402452')]</value>
+      <webElementGuid>26833fd2-cb99-4dec-bfc1-c6e2be53063a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
