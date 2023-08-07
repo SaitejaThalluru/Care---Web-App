@@ -12,10 +12,10 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>091d61dd-f464-4c7c-8e16-46b6f044f24f</testSuiteGuid>
    <testCaseLink>
-      <guid>97438950-1827-4910-8eea-96cb3e9c7205</guid>
+      <guid>6d6253c8-a3f0-46a0-aeef-631a2616c49b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Blogs/Health Insurance - Articles</testCaseId>
+      <testCaseId>Test Cases/Blogs/Health Insurance - Articles 2</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

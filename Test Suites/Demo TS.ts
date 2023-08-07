@@ -12,44 +12,16 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>e426969c-c610-4b1b-9c2f-24da7189f5f1</testSuiteGuid>
    <testCaseLink>
-      <guid>508e2b18-1ad9-40ee-871c-17d45b76fbe5</guid>
+      <guid>1e1e5e8b-c97c-42a8-8684-61fa5b97ea29</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Health Category-Buy Journey/Complete details</testCaseId>
+      <testCaseId>Test Cases/Redirections/Contact_Redirection</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>6f0804f1-87a3-4cd8-b5bc-05c7f0892695</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/Redirections/Contact Us</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>bf3f57a4-ffc9-4270-9ee5-f9b0fe1ded00</guid>
+      <guid>fed16fd9-9b1e-48d6-9889-00538ce4b4ae</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Validations/Care Advantage</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>39419565-afe3-4a88-a729-4707de6b4043</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/Health SEO Flow</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>87f49f74-97c4-40b4-a01a-6279ae567d1d</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Blogs/Health Insurance - Articles</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>fb2d37bc-a413-436c-838b-9e92579f70b1</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
       <testCaseId>Test Cases/Negative Test Case - 1</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>

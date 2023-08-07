@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Next</name>
+   <tag></tag>
+   <elementGuidId>aad551cd-ea14-4d07-81a4-ae9e44ec3419</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn_comon.kyc_validation_next.green_btn.proposerDetailsForm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='proposer_details']/section/div/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ea1690c8-a50f-4fc0-a09a-59c3cb1bcf78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn_comon kyc_validation_next green_btn proposerDetailsForm</value>
+      <webElementGuid>f4779f30-8382-4795-8fb5-f742acec5b0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>Off</value>
+      <webElementGuid>062f9e54-70b9-4b60-a9a6-f7c51c977d56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next
+                    
+                </value>
+      <webElementGuid>2c18633f-c842-4580-9032-8806ba4e7087</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;proposer_details&quot;)/section[@class=&quot;form_sec&quot;]/div[@class=&quot;custom_container&quot;]/div[@class=&quot;center_checkbox&quot;]/div[@class=&quot;popup_btn_group&quot;]/button[@class=&quot;btn_comon kyc_validation_next green_btn proposerDetailsForm&quot;]</value>
+      <webElementGuid>1e8dbf00-a7be-4ad0-a176-2f35c7601946</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='proposer_details']/section/div/div[2]/div/button</value>
+      <webElementGuid>5ef5fa5f-b75f-45ee-8f27-4441a5365b87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='back'])[1]/following::button[1]</value>
+      <webElementGuid>0a0667d8-65cf-4e86-a39c-224bf359615b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Appointee DOB*'])[1]/following::button[1]</value>
+      <webElementGuid>55a46332-e278-426c-aedf-6c1f955f2c98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insured details'])[1]/preceding::button[1]</value>
+      <webElementGuid>33b71bd2-37a8-4648-9a91-56380b20ae45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='insurance'])[1]/preceding::button[1]</value>
+      <webElementGuid>92da34b0-e74f-4c1b-abc0-893e46f7c180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
+      <webElementGuid>65737ade-4b06-4bf9-a60a-fb43953baeec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>0ca61abe-2520-4b53-9d4f-3e400529f30d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Next
+                    
+                ' or . = 'Next
+                    
+                ')]</value>
+      <webElementGuid>2823fcb3-b7c0-4a2f-8703-8ff90a4812d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

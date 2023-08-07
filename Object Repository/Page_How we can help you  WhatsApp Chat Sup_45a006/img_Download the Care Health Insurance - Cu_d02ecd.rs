@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>fb0eaf25-592a-4d9a-b5bb-a5e76acd3a7f</webElementGuid>
+      <webElementGuid>84a35565-ec72-4ad2-8f7f-bd79ee86dcad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>width</name>
       <type>Main</type>
       <value>254</value>
-      <webElementGuid>ad84355a-fe82-4ec6-9693-28248acba5e0</webElementGuid>
+      <webElementGuid>d01fc124-c3f1-411d-9a69-3eafc59e3a9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>height</name>
       <type>Main</type>
       <value>40</value>
-      <webElementGuid>ba32522d-38d7-42ee-9dd0-ca248236154a</webElementGuid>
+      <webElementGuid>451c0145-440b-442a-8b7c-5fc608f4c8f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>lozad</value>
-      <webElementGuid>2185f17a-8a56-47f2-9cc8-0261207ea913</webElementGuid>
+      <webElementGuid>6d8a44ed-d7ff-4df1-a619-c6dcbf032d88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>app_download</value>
-      <webElementGuid>1b832927-968f-4165-af6b-0c534a8dadc9</webElementGuid>
+      <webElementGuid>1c8ecb14-8ced-4f25-862b-c99f5391e283</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>title</name>
       <type>Main</type>
       <value>app_download</value>
-      <webElementGuid>463760af-3976-46fc-823d-33aeb5f8ceb9</webElementGuid>
+      <webElementGuid>bea8a74f-071f-4c2b-8e9b-0075ad3cd626</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-src</name>
       <type>Main</type>
       <value>https://www.careinsurance.com/assets/images/shpimg/Mobile_App.png</value>
-      <webElementGuid>764d9998-7a6f-4342-8fee-ec21f304e9c6</webElementGuid>
+      <webElementGuid>07277129-eb3a-44a6-bd05-29ca59a6918a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://www.careinsurance.com/assets/images/shpimg/Mobile_App.png</value>
-      <webElementGuid>99f496b9-ecc8-408f-93ac-2f7876b204b3</webElementGuid>
+      <webElementGuid>589bd91b-bd6b-4b9a-836d-ed7e9c571f64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>data-loaded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>7f52c74e-c410-460e-b14c-0e5b473446d5</webElementGuid>
+      <webElementGuid>5973b1c0-352e-4254-a12f-3a5b1df71a5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;cards_show Chrome_view&quot;]/section[@class=&quot;support_cont&quot;]/div[@class=&quot;custom_container&quot;]/div[@class=&quot;support_details_section&quot;]/div[@class=&quot;support_method&quot;]/div[@class=&quot;step_container&quot;]/div[@class=&quot;help_details flex_div&quot;]/div[@class=&quot;app_download&quot;]/div[@class=&quot;ios_android_icon&quot;]/p[@class=&quot;app_iocn&quot;]/img[@class=&quot;lozad&quot;]</value>
-      <webElementGuid>4d06d2d3-e0db-4a35-a2c0-0e9675b05e6b</webElementGuid>
+      <webElementGuid>34a8ad1c-5453-4bf5-8e35-a2c5b76bc901</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='app_download']</value>
-      <webElementGuid>9684f574-ae32-43f4-978b-c282151e3a57</webElementGuid>
+      <webElementGuid>a2ada16e-1efd-4be3-863e-0d3abe6efd80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p/img</value>
-      <webElementGuid>848510a9-39aa-4872-ac69-88b2035177d1</webElementGuid>
+      <webElementGuid>25fd2aa9-9011-490a-958c-52f2f2cdc52c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@alt = 'app_download' and @title = 'app_download' and @src = 'https://www.careinsurance.com/assets/images/shpimg/Mobile_App.png']</value>
-      <webElementGuid>e16e96a3-1542-403d-b62a-2af1d6c6937a</webElementGuid>
+      <webElementGuid>e08b28eb-b953-4124-96d0-7c2e6844672b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

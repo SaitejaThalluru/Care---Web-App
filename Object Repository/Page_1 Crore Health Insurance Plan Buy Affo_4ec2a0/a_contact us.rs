@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>cefdd72c-08e7-4436-8103-2f10cb379328</webElementGuid>
+      <webElementGuid>a5f7663e-ca90-407d-abbf-434c7c2e1ff4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu-item-link</value>
-      <webElementGuid>723563a2-f848-4eb4-8786-d6832c7c7003</webElementGuid>
+      <webElementGuid>739b89c5-6b47-4f76-892c-737c4a1b53c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://www.careinsurance.com/contact-us.html</value>
-      <webElementGuid>76e5110b-bbcb-44b5-9830-5c25ee958e33</webElementGuid>
+      <webElementGuid>c272e26f-71ff-44c6-8463-243a68bb0e1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>headerOtherSingle('contact us')</value>
-      <webElementGuid>a0a8395a-7574-4ec3-b6c4-19bac5e34122</webElementGuid>
+      <webElementGuid>9ac02b9a-7bdc-41e9-9d26-fab8a8855803</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>contact us</value>
-      <webElementGuid>e95fa03e-2d7e-4004-bfe4-d4eb63d2535e</webElementGuid>
+      <webElementGuid>2b52c2db-c7e4-45ee-a441-ea1f15b87626</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;care_page common_page_body category_page Chrome_view&quot;]/header[@class=&quot;navbar-main resolution_container&quot;]/div[@class=&quot;header-right&quot;]/div[@class=&quot;menu-wrapper&quot;]/div[@class=&quot;menu_list-wrapper&quot;]/div[@class=&quot;menu_list-container&quot;]/div[@class=&quot;menu_list&quot;]/div[@class=&quot;menu-items-box&quot;]/ul[1]/li[@class=&quot;menu-item mob-menu-bottom-border&quot;]/a[@class=&quot;menu-item-link&quot;]</value>
-      <webElementGuid>2f8e3a7f-2df5-4837-a3b8-9fa0a3ad0bc3</webElementGuid>
+      <webElementGuid>38eafb19-8f63-46fc-a5ed-d712209f568a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//a[@onclick=&quot;headerOtherSingle('contact us')&quot;])[2]</value>
-      <webElementGuid>30cf6a9d-036c-41af-9865-d23d347eb1b2</webElementGuid>
+      <webElementGuid>a9ee6c37-4e92-40b9-9107-2ade90f81a76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'contact us')]</value>
-      <webElementGuid>7a23e092-8a6d-4a07-b374-e13bdd8f2d9b</webElementGuid>
+      <webElementGuid>ce34c86b-1955-4057-aecf-72b5112511a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Portability'])[1]/following::a[1]</value>
-      <webElementGuid>6a1613b5-4582-4ac7-999c-2e27717524bc</webElementGuid>
+      <webElementGuid>d3bdb825-189f-4db2-a9fd-5022a3e6b357</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/following::a[2]</value>
-      <webElementGuid>92ea2f28-13c2-4d66-90cb-33c97334ef82</webElementGuid>
+      <webElementGuid>eb31b794-9733-4d5b-bd55-bedc9dec66e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::a[1]</value>
-      <webElementGuid>4e363552-26cc-4ed3-8d11-5bb3b946ba10</webElementGuid>
+      <webElementGuid>9db41d85-1f86-47f3-a9dd-bf9b9b55774f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='As a Customer'])[1]/preceding::a[1]</value>
-      <webElementGuid>bf79516e-cf77-4e0e-a0b9-b3cc0f9d5f74</webElementGuid>
+      <webElementGuid>4930e9ad-d023-42d4-bea9-31c81f635e97</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='contact us']/parent::*</value>
-      <webElementGuid>509ba52c-441e-4d8c-95d0-a72f44bb3ecd</webElementGuid>
+      <webElementGuid>a1c2c77e-057f-42b3-bb9a-1f651c710cab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://www.careinsurance.com/contact-us.html')])[2]</value>
-      <webElementGuid>595a0b20-cbcb-4b08-b13f-c790bc928fa7</webElementGuid>
+      <webElementGuid>50b66095-740a-4b1e-b291-74c7b00dec68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[8]/a</value>
-      <webElementGuid>e0066734-e925-450a-ae8e-ac11733e2013</webElementGuid>
+      <webElementGuid>ce223845-c481-4902-aca3-0b629fb4df83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://www.careinsurance.com/contact-us.html' and (text() = 'contact us' or . = 'contact us')]</value>
-      <webElementGuid>1394bbf9-8c26-4630-91c8-952b5b65b50b</webElementGuid>
+      <webElementGuid>9db41885-1a5a-42f8-85c8-5282345852fa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -69,3 +69,7 @@ def actualContent = WebUI.getText(findTestObject('Robots.txt'))
 
 WebUI.verifyMatch(actualContent, expectedText, false)
 
+WebUI.closeBrowser()
+
+
+

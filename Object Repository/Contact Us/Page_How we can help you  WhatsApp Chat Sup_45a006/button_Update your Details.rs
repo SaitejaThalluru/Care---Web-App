@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Update your Details</name>
+   <tag></tag>
+   <elementGuidId>da7b65ae-5aee-4e16-9f5b-1932d853abe4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ember54</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='ember54']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5bda557e-95f4-4882-8fe1-846c8a2d329d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ember54</value>
+      <webElementGuid>d1388a7c-6567-47f7-b7ba-cc92d1897026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-img-button ember-view</value>
+      <webElementGuid>8820e403-2ce5-4431-8438-e579fbb8ee7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+  Update your Details
+</value>
+      <webElementGuid>f3f7e7ef-33c6-4a90-a34d-41df640944d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ember54&quot;)</value>
+      <webElementGuid>2021641b-123c-4171-9e2a-5cf2c54c945f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Contact Us/Page_How we can help you  WhatsApp Chat Sup_45a006/iframe_Welcome. How may I help you today_fc_widget</value>
+      <webElementGuid>fc71bd07-56e5-4f5b-aaf5-924a4d87de5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='ember54']</value>
+      <webElementGuid>45acd1a4-f8c6-443d-94de-7a176308cd88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='ember32']/div/button[4]</value>
+      <webElementGuid>9299890c-e0a3-4c44-9bb7-8e5d5e2f32de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[4]</value>
+      <webElementGuid>d6014491-6aae-4ff6-b6e7-fdba95cc22b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'ember54' and (text() = '
+  Update your Details
+' or . = '
+  Update your Details
+')]</value>
+      <webElementGuid>6d34814b-89ee-481f-9224-ec5672366f19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

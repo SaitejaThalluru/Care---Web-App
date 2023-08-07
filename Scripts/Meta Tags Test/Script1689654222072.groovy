@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://www.careinsurance.com/health-insurance/1-crore-heal
 
 WebUI.maximizeWindow()
 
-// Verifiaction of Tags presence and Content - Title, ViewPort, Charset, Canonical, Description, Robots
+// Verification of Tags presence and Content - Title, ViewPort, Charset, Canonical, Description, Robots
 	
 
 WebUI.verifyElementPresent(findTestObject('Meta Tags - Test Objects/Meta-Charset'), 0)

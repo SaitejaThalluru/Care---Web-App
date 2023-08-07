@@ -41,7 +41,7 @@ TestSuiteXMLLogParser logParser = new TestSuiteXMLLogParser()
 // parse the "execution0.log" file to consume as input of the report
 TestSuiteLogRecord suiteLogEntity = logParser.readTestSuiteLogFromXMLFiles(reportDir.toString(), monitor)
 
-File outFolder = new File("Care sample 11")
+File outFolder = new File("Care sample 25")
 
 /*
  * compile a Test Suite report in the format slightly modified

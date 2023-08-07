@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>afe0d422-9ab8-4f1b-a4f9-2eb2f42739bd</webElementGuid>
+      <webElementGuid>d68c7243-8a8c-42aa-9750-acbadfb9f796</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>close1 comon_close_btn link_pop_close</value>
-      <webElementGuid>8ace6aee-1f73-43d1-abad-2312b0c4d33f</webElementGuid>
+      <webElementGuid>5f22f457-35d0-40c3-844a-68808858f428</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>×</value>
-      <webElementGuid>a1c7ac95-eca0-4101-9f5b-76ad99fdb7e2</webElementGuid>
+      <webElementGuid>42ccd5b8-b140-4d12-852f-f8c62d0ca836</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;cards_show Chrome_view&quot;]/div[@class=&quot;get_app_link_popup popup_one&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-inner-content&quot;]/span[@class=&quot;close1 comon_close_btn link_pop_close&quot;]</value>
-      <webElementGuid>7737c8ef-7ea8-4145-b74a-550d8b244e63</webElementGuid>
+      <webElementGuid>6d33aff7-0a2c-411f-beda-56104e04dc84</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[2]/following::span[1]</value>
-      <webElementGuid>7a7cf826-70d2-414b-b038-5982d455b730</webElementGuid>
+      <webElementGuid>9b14a67d-56d5-4376-b72b-97be84bf526f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/following::span[3]</value>
-      <webElementGuid>8419a231-cb59-4e50-bac3-d4261fc1c042</webElementGuid>
+      <webElementGuid>f9e5fec0-a487-4364-afb9-420c66ac372c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[2]/preceding::span[1]</value>
-      <webElementGuid>bb5a43ca-0068-4d23-abfb-9da3b6aeb9de</webElementGuid>
+      <webElementGuid>139e157b-2f7b-414f-9bad-09743e7f6963</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Just select the digital platform of your choice &amp; we are there to serve you.'])[1]/preceding::span[1]</value>
-      <webElementGuid>32d47299-5731-446c-a1a8-6d014b50d83d</webElementGuid>
+      <webElementGuid>bef86d87-0727-4843-a778-becbb9806183</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/div/div/span</value>
-      <webElementGuid>915b9ef6-49ce-437e-aace-df98cf221e55</webElementGuid>
+      <webElementGuid>5e68a7d4-93c6-4def-a8a4-b9204d366699</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = '×' or . = '×')]</value>
-      <webElementGuid>d73f4daf-54e6-4df6-a003-b8bb8d542f6b</webElementGuid>
+      <webElementGuid>fa1a1078-00fb-4407-9458-d58a3713ec05</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

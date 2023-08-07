@@ -71,7 +71,7 @@ WebUI.switchToWindowTitle('How we can help you | WhatsApp Chat Support 886040245
 WebUI.click(findTestObject('Object Repository/Page_How we can help you  WhatsApp Chat Sup_45a006/a_Click here'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_How we can help you  WhatsApp Chat Sup_45a006/div_Good MorningWelcome to Care Health Insurances Chat Service Tell me, what can I help you with today'), 
-    0)
+   0)
 
 WebUI.click(findTestObject('Object Repository/Page_How we can help you  WhatsApp Chat Sup_45a006/svg'))
 

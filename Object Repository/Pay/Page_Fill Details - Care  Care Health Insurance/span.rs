@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>33770225-8b57-43f3-9345-51732cae0c4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='health_questionnaire']/section/div[4]/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.proposaltermscondition > label.checkbox > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>39c27446-0a70-4a8f-855c-58d9b4e02502</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;health_questionnaire&quot;)/section[@class=&quot;form_sec new_questionnaire_styles&quot;]/div[@class=&quot;custom_container bg_ui&quot;]/div[@class=&quot;proposaltermscondition&quot;]/label[@class=&quot;checkbox&quot;]/span[1]</value>
+      <webElementGuid>939dca6c-3f90-4e3e-b331-16b0c038c31b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='health_questionnaire']/section/div[4]/div/label/span</value>
+      <webElementGuid>62836b1f-0f44-4289-b32c-86881886de6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/label/span</value>
+      <webElementGuid>c0614bc5-cb00-4567-9c04-05987a8dc6be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

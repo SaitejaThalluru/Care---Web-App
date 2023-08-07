@@ -48,10 +48,12 @@ WebUI.setText(findTestObject('Object Repository/Complete Form/Page_1 Crore Healt
 
 WebUI.click(findTestObject('Object Repository/Complete Form/Page_1 Crore Health Insurance Plan Buy Affo_4ec2a0/button_Calculate Premium'))
 
+WebUI.click(findTestObject('sample/Page_Care Advantage- A Health Insurance Pla_ee32b2/a_Continue'))
+
 WebUI.selectOptionByValue(findTestObject('Object Repository/Complete Form/Page_Care Advantage- A Health Insurance Pla_ee32b2/select_Select age5-17 Years18-24 Years25-35_2c9cec'), 
     '25', true)
 
-WebUI.click(findTestObject('sample/Page_Care Advantage- A Health Insurance Pla_ee32b2/a_Continue'))
+WebUI.click(findTestObject('Health Journey - Quick Payment/Page_Care Advantage- A Health Insurance Pla_ee32b2/a_Continue'))
 
 WebUI.setText(findTestObject('Object Repository/Complete Form/Page_Care Advantage- A Health Insurance Pla_ee32b2/input_Help us with your city_city_name'), 
     '524404')
@@ -147,11 +149,20 @@ WebUI.click(findTestObject('Object Repository/Complete Form/Page_Fill Details - 
 
 WebUI.click(findTestObject('Object Repository/Complete Form/Page_Fill Details - Care  Care Health Insurance/span_1'))
 
-WebUI.click(findTestObject('Span_2'))
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Pay/Page_Fill Details - Care  Care Health Insurance/span'))
 
 WebUI.click(findTestObject('Object Repository/Complete Form/Page_Fill Details - Care  Care Health Insurance/button_Next_1'))
 
-WebUI.delay(5)
+WebUI.waitForElementPresent(findTestObject('Payment'), 0)
 
-WebUI.click(findTestObject('Object Repository/Complete Form/Page_Fill Details - Care  Care Health Insurance/button_PROCEED TO PAY'))
+WebUI.verifyElementPresent(findTestObject('Payment'), 0)
+
+// WebUI.click(findTestObject('Payment'))
+// WebUI.waitForElementPresent(findTestObject('Object Repository/Health SEO/Page_Care Payment/h4_Enter Your Card Details'), 
+// 0)
+// WebUI.verifyElementPresent(findTestObject('Object Repository/Health SEO/Page_Care Payment/h4_Enter Your Card Details'), 
+// 0)
+WebUI.closeBrowser()
 

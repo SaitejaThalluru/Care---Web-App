@@ -24,7 +24,7 @@ WebUI.maximizeWindow()
 WebUI.navigateToUrl('https://www.careinsurance.com/health-insurance/cr/chi-health-insurance-plans-new.html?agentId=20004977&utm_source=google&utm_medium=cpc&utm_campaign=ht_ind_new-101_AD_CR_MB&utm_content=eta&utm_keyword=care%20health%20insurance&s_kwcid=AL!10397!3!599158986150!e!!g!!care%20health%20insurance&utm_term=11058545985&utm_adgroup=107793228185&gad=1&gclid=Cj0KCQjwqNqkBhDlARIsAFaxvwyeQ5u0OQs1YFkNUsQjnYhd33RofwCDtYTkE2GNVfEKRBgsOY-eOrgaAr-REALw_wcB')
 
 WebUI.setText(findTestObject('Object Repository/Health SEO/Page_Buy Care Health Insurance Plans Online/input_Buy Care Health Insurance Online_mobile_no'), 
-    '8919396555')
+    GlobalVariable.MobileNumber)
 
 WebUI.click(findTestObject('Object Repository/Health SEO/Page_Buy Care Health Insurance Plans Online/a_Calculate Premium'))
 

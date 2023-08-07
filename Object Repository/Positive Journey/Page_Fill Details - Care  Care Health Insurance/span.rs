@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>f54f1566-7055-42e1-8d12-c3bb6cb496ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.no_questionnaire > div.checkbox_p > label.checkbox > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='health_questionnaire']/section/div[3]/div/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ee8cc760-fbeb-4b3c-b524-ee700823e46c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;health_questionnaire&quot;)/section[@class=&quot;form_sec new_questionnaire_styles&quot;]/div[@class=&quot;custom_container bg_ui&quot;]/div[@class=&quot;no_questionnaire&quot;]/div[@class=&quot;checkbox_p&quot;]/label[@class=&quot;checkbox&quot;]/span[1]</value>
+      <webElementGuid>28a23574-c559-4f92-ab2e-a0dd953e8ab4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='health_questionnaire']/section/div[3]/div/div/label/span</value>
+      <webElementGuid>9a61766c-b9a6-4d4d-baf6-c39b107b3d43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[3]/div/div/label/span</value>
+      <webElementGuid>7245db9b-07e9-4db6-8373-73cf2b67e23d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
